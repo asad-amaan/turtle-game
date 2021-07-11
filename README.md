@@ -1,1 +1,1 @@
-This is a mini project in which the user is asked for input of the direction and angle for the turtle to draw.  
+This program was created using Python Programming. The turtle library was imported it comes with an interactive feature that gives the programmers a taste of what it is like to work with Python. The progam asks the user to input the color, direction of movement and then asks the distance with which it has to move in the given direction. After which the program gives an output of the drawing which was created using the directions and distance inputted.
